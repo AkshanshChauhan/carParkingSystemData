@@ -1,3 +1,7 @@
+* {
+  transition-duration: 0.3s;
+}
+
 .App {
   text-align: center;
 }
